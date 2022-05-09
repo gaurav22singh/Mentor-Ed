@@ -74,28 +74,9 @@ python3 main.py
 
 Copy the localhost url (usually localhost:5000/) and paste in browser
 
-# Links
 
 
-Video explaination of Idea and prototype-
 
-https://youtu.be/REPcNRVjuUQ
-
-Prototype-  
-
-https://www.figma.com/proto/amk9eOZtL3O6tonM9KL6dq/Untitled?node-id=38%3A0&scaling=min-zoom
-
-Working Website demo link-
-
-https://youtu.be/7IROfjPt4pk
-
-# TEAM
-
-RITIKA SINGH
-
-SAURABH SINGH
-
-ANSHUL OLA
 
 # Thankyou
 
